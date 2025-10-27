@@ -1,14 +1,14 @@
-# 🤖 ThereAI
+# 🤖 ChatCPT
 
-**ThereAI** is a lightweight, frontend-first AI chatbot powered by open-source LLMs (like Microsoft Phi 2.7B) running on a mobile device using [Ollama](https://ollama.com/). It supports real-time interaction, daily prompt challenges, and modern UX features like typing animations.
+**ChatCPT** is a lightweight, frontend-first AI chatbot powered by open-source LLMs running on a mobile device using [Ollama](https://ollama.com/). It supports real-time interaction, daily prompt challenges, and modern UX features like typing animations.
 
-🚀 Live demo[^1]: [https://crymises.github.io/there.ai](https://crymises.github.io/there.ai/)
+🚀 Live demo[^1]: [https://crymises.github.io/ChatCPT](https://crymises.github.io/ChatCPT/)
 
 ---
 
 ## 📦 Features
 
-- 🧠 AI chatbot powered by `phi:2.7b` via Ollama
+- 🧠 AI chatbot powered by `Deepseek-v3.1` via Ollama Cloud
 - 💬 Typing animation effect for more natural replies
 - 🧪 Daily Prompt Challenge via `/challenge` endpoint
 - 🧼 Input sanitization and XSS prevention
@@ -52,9 +52,8 @@ MIT — free to fork, improve, and remix.
 🙏 Credits
 
 - Ollama for local LLM hosting
-- Microsoft for phi-2.7b
+- Deepseek for Deepseek-v3.1
 - Ngrok for free tunneling service
-- Ive bantu desain wkwkwkw
 
 ---
 [^1]: User IP and Chat History are **STORED** but never shared with other parties outside of the development team
