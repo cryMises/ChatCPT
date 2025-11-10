@@ -8,7 +8,7 @@
 
 ## 📦 Features
 
-- 🧠 AI chatbot powered by `Deepseek-v3.1` via Ollama Cloud
+- 🧠 AI chatbot powered by `Kimi K2 Thinking` via Ollama Cloud
 - 💬 Typing animation effect for more natural replies
 - 🧪 Daily Prompt Challenge via `/challenge` endpoint
 - 🧼 Input sanitization and XSS prevention
