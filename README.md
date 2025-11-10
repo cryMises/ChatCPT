@@ -49,8 +49,8 @@ MIT — free to fork, improve, and remix.
 
 🙏 Credits
 
-- Ollama for local LLM hosting
-- Deepseek for Deepseek-v3.1
+- Ollama for local and cloud LLM hosting
+- Moonshot AI for releasing Kimi K2 Thinking as an open source model
 - Ngrok for free tunneling service
 
 ---
