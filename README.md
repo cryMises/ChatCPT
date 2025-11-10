@@ -38,8 +38,6 @@
 - [ ] Export chat as text/markdown
 - [ ] Voice input support
 - [ ] Streamed responses (typewriter + backend support)
-- [ ] Upscaling to Qwen3:4b
-
 ---
 
 ## 📃 License
